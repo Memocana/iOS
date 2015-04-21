@@ -208,6 +208,7 @@
 				ORGANIZATIONNAME = RedBearLab;
 				TargetAttributes = {
 					C27E82971820DB490032D858 = {
+						DevelopmentTeam = 7Q88V52H3U;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -365,6 +366,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BLEController/BLEController-Prefix.pch";
 				INFOPLIST_FILE = "BLEController/BLEController-Info.plist";
@@ -379,6 +381,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BLEController/BLEController-Prefix.pch";
 				INFOPLIST_FILE = "BLEController/BLEController-Info.plist";
